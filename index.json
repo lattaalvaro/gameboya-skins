@@ -6,4 +6,11 @@
     "preview": "https://raw.githubusercontent.com/lattaalvaro/gameboya-skins/main/Zelda_Skin/preview.png",
     "download": "https://raw.githubusercontent.com/lattaalvaro/gameboya-skins/main/Zelda_Skin/zeldaskin.lattax"
   }
+   {
+    "id": "Mario_Kart",
+    "name": "Mario Kart",
+    "author": "LattaDev",
+    "preview": "https://raw.githubusercontent.com/lattaalvaro/gameboya-skins/main/Mario_Kar/preview.png",
+    "download": "https://raw.githubusercontent.com/lattaalvaro/gameboya-skins/main/Mario_Kart/MarioKardSkin.lattax"
+  }
 ]
