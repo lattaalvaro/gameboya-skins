@@ -12,5 +12,40 @@
     "author": "LattaDev",
     "preview": "https://raw.githubusercontent.com/lattaalvaro/gameboya-skins/main/Mario_Kar/preview.png",
     "download": "https://raw.githubusercontent.com/lattaalvaro/gameboya-skins/main/Mario_Kar/MarioKardSkin.lattax"
+  },
+   {
+  "id": "Mario_Kart_Pro",
+    "name": "Mario Kart Pro",
+    "author": "OrlandoDesig",
+    "preview": "https://raw.githubusercontent.com/lattaalvaro/gameboya-skins/main/Mario_Kar_Pro/preview.png",
+    "download": "https://raw.githubusercontent.com/lattaalvaro/gameboya-skins/main/Mario_Kar_Pro/MarioKardSkinPro.lattax"
+  },
+   {
+  "id": "Pokemon_Skin",
+    "name": "Pokemon Skin",
+    "author": "OrlandoDesig",
+    "preview": "https://raw.githubusercontent.com/lattaalvaro/gameboya-skins/main/Pokemon_Skin/preview.png",
+    "download": "https://raw.githubusercontent.com/lattaalvaro/gameboya-skins/main/Pokemon_Skin/PokemonSkinPro.lattax"
+  },
+   {
+  "id": "Raiqueza_Skin",
+    "name": "Raiqueza Skin",
+    "author": "OrlandoDesig",
+    "preview": "https://raw.githubusercontent.com/lattaalvaro/gameboya-skins/main/Raiqueza_Skin/preview.png",
+    "download": "https://raw.githubusercontent.com/lattaalvaro/gameboya-skins/main/Raiqueza_Skin/RaiquezaSkin.lattax"
+  },
+  {
+  "id": "Sonic_Skin",
+    "name": "Sonic Skin",
+    "author": "OrlandoDesig",
+    "preview": "https://raw.githubusercontent.com/lattaalvaro/gameboya-skins/main/Sonic_Skin/preview.png",
+    "download": "https://raw.githubusercontent.com/lattaalvaro/gameboya-skins/main/Sonic_Skin/SonicSkin.lattax"
+  },
+   {
+  "id": "Zelda_Skin_Pro",
+    "name": "Zelda Skin Pro",
+    "author": "OrlandoDesig",
+    "preview": "https://raw.githubusercontent.com/lattaalvaro/gameboya-skins/main/Zelda_Skin_Pro/ZeldaSkinPro.lattax",
+    "download": "https://raw.githubusercontent.com/lattaalvaro/gameboya-skins/main/Zelda_Skin_Pro/preview.png"
   }
 ]
